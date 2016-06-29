@@ -1,0 +1,10 @@
+{
+    "name": "webtales/alambic-middleware-validator",
+    "require": {
+        "php": ">=5.5.9",
+        "symfony/validator": "v3.1.1"
+    },
+    "autoload": {
+        "psr-0": { "AlambicValidatorMiddleware": "src/" }
+    }
+}
